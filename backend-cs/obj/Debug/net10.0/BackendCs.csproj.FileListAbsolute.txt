@@ -1,0 +1,9 @@
+C:\Users\Home\OneDrive\Área de Trabalho\game-store\projeto-loja-de-jogos\backend-cs\obj\Debug\net10.0\BackendCs.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Área de Trabalho\game-store\projeto-loja-de-jogos\backend-cs\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Home\OneDrive\Área de Trabalho\game-store\projeto-loja-de-jogos\backend-cs\obj\Debug\net10.0\BackendCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Área de Trabalho\game-store\projeto-loja-de-jogos\backend-cs\obj\Debug\net10.0\BackendCs.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Área de Trabalho\game-store\projeto-loja-de-jogos\backend-cs\obj\Debug\net10.0\BackendCs.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Área de Trabalho\game-store\projeto-loja-de-jogos\backend-cs\obj\Debug\net10.0\BackendCs.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Área de Trabalho\game-store\projeto-loja-de-jogos\backend-cs\obj\Debug\net10.0\BackendCs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Home\OneDrive\Área de Trabalho\game-store\projeto-loja-de-jogos\backend-cs\obj\Debug\net10.0\BackendCs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Home\OneDrive\Área de Trabalho\game-store\projeto-loja-de-jogos\backend-cs\obj\Debug\net10.0\BackendCs.sourcelink.json
